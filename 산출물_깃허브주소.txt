@@ -1,0 +1,16 @@
+0. 웹주소
+43.203.165.206 
+
+2. erd
+https://www.erdcloud.com/d/4i6ojbPiCi2sBj7xw
+
+
+4. eat pick 문서 깃허브-회의록등
+https://github.com/darkphoenix-risen/EatPickDocuments
+
+5. 피그마
+https://www.figma.com/design/wOwWuxvQ8zwgGfe3x7XMnz/Eat-Pick?node-id=0-1&t=zMHhtv8RghN7cz27-0
+
+6. 소스
+프론트: https://github.com/Speed4963/foodie-front
+벡엔드: https://github.com/Speed4963/foodie-backend
